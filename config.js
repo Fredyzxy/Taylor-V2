@@ -11,10 +11,10 @@ import moment from "moment-timezone"
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-    ["6282195322106", "️𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 - 𝑶𝒘𝒏𝒆𝒓", true]
+    ["6289531952066", "️Fredyzxy - 𝑶𝒘𝒏𝒆𝒓", true]
 ]
-global.mods = ["6282195322106"]
-global.prems = ["6282195322106"]
+global.mods = ["6289531952066"]
+global.prems = ["6289531952066"]
 
 /*Website*/
 global.APIs = {
@@ -37,7 +37,7 @@ global.APIs = {
 /*Apikey*/
 global.APIKeys = {
     "https://api.neoxr.my.id": "5VC9rvNx",
-    "https://api.lolhuman.xyz": pickRandom(["043c5de3b7cd6b1b8f2a0f90", "e1a815979e6adfc071b7eafc", "ed78c137a46873c5b8e5fe3b", "IchanZX", "GataDios"]),
+    "https://api.lolhuman.xyz": pickRandom(["043c5de3b7cd6b1b8f2a0f90", "e1a815979e6adfc071b7eafc", "ed78c137a46873c5b8e5fe3b", "IchanZX"]),
     "https://api.xteam.xyz": "HIRO",
     "https://api.xyroinee.xyz": "yqiBQF86F4",
     "https://api.zeks.xyz": "apivinz",
@@ -49,7 +49,7 @@ global.APIKeys = {
 }
 
 /*Lolhuman*/
-global.lolkey = pickRandom(["043c5de3b7cd6b1b8f2a0f90", "e1a815979e6adfc071b7eafc", "ed78c137a46873c5b8e5fe3b", "IchanZX", "GataDios"])
+global.lolkey = pickRandom(["043c5de3b7cd6b1b8f2a0f90", "e1a815979e6adfc071b7eafc", "ed78c137a46873c5b8e5fe3b", "IchanZX"])
 /*OpenAi*/
 global.openaikey = "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"
 /*AmeApi*/
@@ -58,19 +58,19 @@ global.ameapikey = "1f98ec7e4842d057d7551722f83e9ae5c59896856aa3f96d406ff8fc9185
 global.xyro = "yqiBQF86F4"
 
 /*Number*/
-global.nomorbot = "6285171216276"
-global.nomorown = "6282195322106"
-global.namebot = " ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ "
-global.nameown = "「 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 」"
+global.nomorbot = "6287873375998"
+global.nomorown = "6289531952066"
+global.namebot = " Nantoka-MD あ⁩ "
+global.nameown = "「 Fredyzxy 」"
 
 /* Random */
 global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"])
 global.htjava = pickRandom(["乂", "⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"])
 
 /*Watermark*/
-global.wm = "                「 ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ 」"
+global.wm = "                「 Nantoka あ⁩ 」"
 global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷"
-global.wm3 = htjava + " ᴛᴀyʟᴏʀ-ʙᴏᴛ"
+global.wm3 = htjava + " Nantoka-Bot"
 global.botdate = `${htjava} Date :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}`
 global.titlebot = `${htjava} Time Sever : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}\n⫹⫺ Date Server :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
@@ -81,9 +81,9 @@ global.fla = pickRandom(ImgLogoFlam())
 global.flaaa = ImgLogoDynamic()
 
 /*Link*/
-global.sig = "https://www.instagram.com/wudysoft"
-global.sgh = "https://www.github.com/AyGemuy"
-global.sgc = "https://chat.whatsapp.com/LqJoQr4IdBLAXsxd1PkNph"
+global.sig = "https://www.instagram.com/karthz8"
+global.sgh = "https://www.github.com/FredyZxy"
+global.sgc = "https://chat.whatsapp.com/DZvbRvD6S0jGrFV5YKhbUH"
 global.sdc = "https://www.discord.com/wudysoft"
 global.snh = "https://www.tiktok.com/@upload_file"
 global.sfb = "https://www.facebook.com/"
@@ -148,7 +148,7 @@ global.cmenua = "\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 global.packname = "𝑴𝒂𝒅𝒆 𝒃𝒚"
 global.stickpack = packname
-global.author = "𝑻𝒂𝒚𝒍𝒐𝒓 乂 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕"
+global.author = "Nantoka 乂 Fredyzxy"
 global.stickauth = author + "\nwa.me/" + nomorbot
 global.multiplier = 69
 
@@ -157,21 +157,21 @@ global.eror = "_💤 Ada yang eror nih!_"
 global.wait = "_🕚 Mohon tunggu, dalam proses!_"
 global.render = "_📍 Rendering!_"
 global.webs = "https://s.id/Cerdasin62"
-global.gcwangsaf = "https://chat.whatsapp.com/LqJoQr4IdBLAXsxd1PkNph"
+global.gcwangsaf = "https://chat.whatsapp.com/DZvbRvD6S0jGrFV5YKhbUH"
 
 /*Donasi*/
 global.saweria = "https://saweria.com/wudysoft"
-global.dana = "0887435373103"
-global.pulsa = "082195322106"
-global.trakteer = "https://trakteer.id/wudysoft"
-global.paypal = "wudysoft@mail.com"
-global.gopay = "082195322106"
-global.pdana = "0887435373103"
-global.povo = "082195322106"
-global.pgopay = "082195322106"
-global.ppulsa = "082195322106"
-global.ppulsa2 = "082195322106"
-global.psaweria = "https://saweria.com/Wudysoft"
+global.dana = "6289531952066"
+global.pulsa = "6289531952066"
+global.trakteer = "https://trakteer.id/Xarumi"
+global.paypal = "fredyyzxy@gmail.com"
+global.gopay = "6289531952066"
+global.pdana = "6289531952066"
+global.povo = "6289531952066"
+global.pgopay = "6289531952066"
+global.ppulsa = "6289531952066"
+global.ppulsa2 = "6289531952066"
+global.psaweria = "https://saweria.com/Fredyzxy"
 
 /* Fake adReplyS*/
 global.adReplyS = {
